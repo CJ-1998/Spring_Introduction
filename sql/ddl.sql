@@ -6,4 +6,4 @@ create table member
  primary key (id)
 );
 
-github test
+github test 
